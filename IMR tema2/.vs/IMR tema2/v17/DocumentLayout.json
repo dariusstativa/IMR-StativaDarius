@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\BasketScore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\BasketScore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\BallThrowTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\BallThrowTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.5\\Runtime\\Interaction\\Interactors\\Visual\\XRInteractorLineVisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.5\\Runtime\\Interaction\\Interactors\\Visual\\XRInteractorLineVisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Library\\PackageCache\\com.unity.xr.core-utils@2.5.2\\Runtime\\XRLoggingUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.core-utils@2.5.2\\Runtime\\XRLoggingUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\XR Device Simulator\\GrabFeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\XR Device Simulator\\GrabFeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\XR Device Simulator\\GrabBall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\XR Device Simulator\\GrabBall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\Starter Assets\\DemoSceneAssets\\Scripts\\MultiAnchorTeleportReticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\Starter Assets\\DemoSceneAssets\\Scripts\\MultiAnchorTeleportReticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasketScore.cs",
+              "DocumentMoniker": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\BasketScore.cs",
+              "RelativeDocumentMoniker": "Assets\\BasketScore.cs",
+              "ToolTip": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\BasketScore.cs",
+              "RelativeToolTip": "Assets\\BasketScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:52:14.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BallThrowTracker.cs",
+              "DocumentMoniker": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\BallThrowTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\BallThrowTracker.cs",
+              "ToolTip": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\BallThrowTracker.cs",
+              "RelativeToolTip": "Assets\\BallThrowTracker.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:51:08.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XRInteractorLineVisual.cs",
+              "DocumentMoniker": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.5\\Runtime\\Interaction\\Interactors\\Visual\\XRInteractorLineVisual.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.5\\Runtime\\Interaction\\Interactors\\Visual\\XRInteractorLineVisual.cs",
+              "ToolTip": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.5\\Runtime\\Interaction\\Interactors\\Visual\\XRInteractorLineVisual.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.5\\Runtime\\Interaction\\Interactors\\Visual\\XRInteractorLineVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:20:33.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XRLoggingUtils.cs",
+              "DocumentMoniker": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Library\\PackageCache\\com.unity.xr.core-utils@2.5.2\\Runtime\\XRLoggingUtils.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.core-utils@2.5.2\\Runtime\\XRLoggingUtils.cs",
+              "ToolTip": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Library\\PackageCache\\com.unity.xr.core-utils@2.5.2\\Runtime\\XRLoggingUtils.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.core-utils@2.5.2\\Runtime\\XRLoggingUtils.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwDcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:03:32.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GrabFeedback.cs",
+              "DocumentMoniker": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\XR Device Simulator\\GrabFeedback.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\XR Device Simulator\\GrabFeedback.cs",
+              "ToolTip": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\XR Device Simulator\\GrabFeedback.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\XR Device Simulator\\GrabFeedback.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:01:23.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GrabBall.cs",
+              "DocumentMoniker": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\XR Device Simulator\\GrabBall.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\XR Device Simulator\\GrabBall.cs",
+              "ToolTip": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\XR Device Simulator\\GrabBall.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\XR Device Simulator\\GrabBall.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:31:14.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MultiAnchorTeleportReticle.cs",
+              "DocumentMoniker": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\Starter Assets\\DemoSceneAssets\\Scripts\\MultiAnchorTeleportReticle.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\Starter Assets\\DemoSceneAssets\\Scripts\\MultiAnchorTeleportReticle.cs",
+              "ToolTip": "E:\\IMR3\\IMR-StativaDarius\\IMR tema2\\Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\Starter Assets\\DemoSceneAssets\\Scripts\\MultiAnchorTeleportReticle.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.6.5\\Starter Assets\\DemoSceneAssets\\Scripts\\MultiAnchorTeleportReticle.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:58:26.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
